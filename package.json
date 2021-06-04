@@ -1,0 +1,12 @@
+{
+  "name": "kterminal.js",
+  "version": "1.0.0",
+  "description": "KTerminal as a Node.js Application. Because Python and C++ is too mainstream",
+  "main": "KTerminal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kai Gonzalez",
+  "license": "MIT"
+}
